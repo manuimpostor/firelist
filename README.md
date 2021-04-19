@@ -1,5 +1,6 @@
 # Firelist = Burner Lists + Pomodoro Timer
 
+## This is client, find server [here](https://github.com/nikonoll/firelistServer)
 ## How to use
 
 - Commit to short term (1-3 day) focus topic and one secondary topic
