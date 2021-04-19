@@ -1,0 +1,13 @@
+@import "../../shared/variables.scss";
+
+.bulletedPoint {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.bullet {
+}
+.point {
+  width: 90%;
+}

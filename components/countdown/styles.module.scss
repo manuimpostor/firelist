@@ -1,0 +1,36 @@
+.counterBtn {
+  position: relative;
+  padding: 4px;
+  width: 100px;
+  text-align: center;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.counterBtn:hover {
+  background: rgba(247, 232, 217, 0.8);
+}
+
+.fireButton {
+  height: 20px;
+  cursor: pointer;
+  color: #fff;
+  background-color: #F44336;
+  border: none;
+  padding: 6px;
+  min-width: 80px;
+  background-image: linear-gradient(to bottom right, #d3cd29, #ff0000);
+  text-align: center;
+}
+
+.countdown {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  align-items: center;
+}
+
+.countdown div {
+  margin-bottom: 5px;
+}
